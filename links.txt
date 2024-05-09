@@ -1,4 +1,37 @@
 https://drive.google.com/drive/u/0/folders/1me_nJJh0fvdDOXX3ew2jzGQpoP7f_iFt - ubuntu vmdk
 
+2A FOR GIT AND GITHUB 
+make a folder wad and and open in vscode
 
+in terminal
+
+mkdir parta
+cd parta
+git --version
+
+login in and make new repository
+
+create a file.txt in parta folder and write content HEY HI HOWS U and save
+
+git init
+git add .
+git status
+git remote add origin " link of repository"
+git commit -m "First Commit"
+git status
+git push -u origin master
+
+refresh GitHub account
+
+make another file2.txt and write something in it
+
+git status
+git add .
+git status
+git commit -m "Second Commit"
+git push -u origin master
+
+to authenticate
+git config --global user.email "shreyakadam2003@gmail.com"
+git config --global user.name "shreyak2003"
 
