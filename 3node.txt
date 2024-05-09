@@ -1,1 +1,32 @@
+TO RUN NODE JS APPLICATION
+
+
+open cmd in a folder wad
+cmd
+npm init
+ --enter-- 
+descrip-wad prac
+test command-blank
+git repository- blank
+author-shreya
+yes
+
+(package.json created in wad folder--open it in vscode)
+
+create new file index.js
+
+go to cmd again
+npm install express --save
+
+(node modules folder created in wad folder--open it in vscode)
+copy paste index.js
+
+create a new folder public and create index.html in it
+
+go to cmd
+index.js (get server is started msg)
+
+go to a browser and type localhost:4000
+
+
 
