@@ -28,6 +28,8 @@ index.js (get server is started msg)
 
 go to a browser and type localhost:4000
 
+
+#. Find a procedure to transfer the filesfrom one virtual machine to another virtual machine.
 New - type version -- Linux Ubuntu - path of vagrant vmdk
 Network for both NAT network
 Launch both side by side
