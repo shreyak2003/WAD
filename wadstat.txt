@@ -1,4 +1,22 @@
-Simulate a cloud scenario using CloudSim and run a scheduling algorithm that is not present in
-CloudSim.
-4. Find a procedure to transfer the filesfrom one virtual machine to another virtual machine.
-5. Find a procedure to launch virtual machine using trystack (Online Openstack Demo Version)
+
+WAD 1.Create a responsive web page which shows the ecommerce/college/exam
+admin dashboard with sidebar and statistics in cards using HTML, CSS and
+Bootstrap.
+
+WAD 2.Write a JavaScript Program to get the user registration data and push to
+array/local storage with AJAX POST method and data list in new page
+
+WAD 3.Create version control account on GitHub and using Git commands to
+create repository and push your code to GitHub
+
+WAD 4.Create an Angular application which will do following actions: Register
+User, Login User, Show User Data on Profile Component
+
+WAD 5.Create four API using Node.JS, ExpressJS and MongoDB for CURD
+Operations on assignment for User login and Registration
+
+WAD 6.Create a simple Mobile Website using jQuery Mobile
+
+WAD7. Create a Node.JS Application which serves a static website.
+
+WAD 8. Create Docker Container Environment (NVIDEIA Docker or any other).
