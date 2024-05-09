@@ -11,3 +11,5 @@ System.out.println ("helo");
 docker ps
 docker stop id
 docker container rm id
+
+
